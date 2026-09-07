@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MSM Sticker Viewer</title>
+    <link rel="stylesheet" href="../font-family.css">
+
+    <style>
+        main {
+            grid-area: main;
+            min-width: 0;
+            min-height: 100dvh;
+            box-sizing: border-box;
+            background: url("calendar_bg.avif") center / cover no-repeat fixed;
+            display: flex;
+            justify-content: center;
+            align-items: flex-start;
+        }
+
+        #gallery {
+            margin: 24px;
+            display: grid;
+            grid-template-columns: repeat(auto-fill, 196px);
+            gap: 15px;
+            justify-content: center;
+            width: 90%;
+            max-width: 1920px;
+        }
+
+        img {
+            mask-image: url("cards/shape.png");
+            mask-size: cover;
+            mask-position: center;
+            mask-repeat: no-repeat;
+            width: 196px;
+            height: 256px;
+            object-fit: cover;
+        }
+
+        div.sticker-card {
+            filter: drop-shadow(0px 0px 4px black);
+            transition: 0.15s;
+            z-index: 99;
+        }
+
+        div.sticker-card:hover {
+            transform: translateY(-12px) scale(1.11) rotate3d(3, 0, 1, -12deg);
+            filter: drop-shadow(0px 0px 8px rgba(0, 0, 0, 0.75));
+            z-index: 999;
+        }
+
+        body {
+            margin: 0;
+            min-height: 100dvh;
+        }
+
+        #shadow-overlay {
+            position: fixed;
+            top: 0;
+            left: 0;
+            height: 100dvh;
+            width: 100dvw;
+            box-shadow: inset 0 0 9px black, 0 0 4.5px black;
+        }
+    </style>
+</head>
+
+<body>
+    <main>
+        <div id="shadow-overlay"></div>
+        <div id="gallery">
+        </div>
+    </main>
+
+    <script>
+        const gallery = document.getElementById("gallery");
+
+        for (let i = 1; i <= 510; i++) {
+            const div = document.createElement("div");
+            div.classList = "sticker-card";
+
+            const a = document.createElement("a");
+            a.href = `cards/${i}.png`;
+            a.target = "_blank"
+
+            const img = document.createElement("img");
+            img.src = `cards/${i}.png`;
+            img.alt = `Image ${i}`;
+
+            gallery.appendChild(div);
+            div.appendChild(a)
+            a.appendChild(img);
+        }
+    </script>
+</body>
+
+</html>
