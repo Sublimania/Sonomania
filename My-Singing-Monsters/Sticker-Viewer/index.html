@@ -8,7 +8,7 @@
     <link rel="stylesheet" href="../font-family.css">
 
     <style>
-        main {
+                main {
             grid-area: main;
             min-width: 0;
             min-height: 100dvh;
@@ -17,6 +17,28 @@
             display: flex;
             justify-content: center;
             align-items: flex-start;
+        }
+
+        @media screen and (width > 500px) {
+            #gallery {
+                margin: 24px;
+                display: grid;
+                grid-template-columns: repeat(auto-fill, 196px);
+                gap: 15px;
+                justify-content: center;
+                width: 90%;
+                max-width: 1920px;
+            }
+
+            img {
+                mask-image: url("cards/shape.png");
+                mask-size: cover;
+                mask-position: center;
+                mask-repeat: no-repeat;
+                aspect-ratio: 196/256;
+                width: 196px;
+                object-fit: cover;
+            }
         }
 
         @media screen and (width < 500px) {
@@ -41,12 +63,12 @@
             }
         }
 
-        @media screen and (width > 500px) {
+        @media screen and (width < 350px) {
             #gallery {
-                margin: 12px;
+                margin: 6px;
                 display: grid;
-                grid-template-columns: repeat(auto-fill, 196px);
-                gap: 7.5px;
+                grid-template-columns: repeat(auto-fill, 65px);
+                gap: 3.75px;
                 justify-content: center;
                 width: 90%;
                 max-width: 1920px;
@@ -58,7 +80,7 @@
                 mask-position: center;
                 mask-repeat: no-repeat;
                 aspect-ratio: 196/256;
-                width: 196px;
+                width: 65px;
                 object-fit: cover;
             }
         }
