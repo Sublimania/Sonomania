@@ -1,652 +1,380 @@
 [
     {
-        "variant" : "Common",
         "species": "Tweedle",
-        "affiliation" : ["Air"],
-        "class" : "Natural"
+        "affiliation": ["Air"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Tweedle",
-        "affiliation" : ["Air"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Tweedle",
-        "affiliation" : ["Air"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Potbelly",
-        "affiliation" : ["Plant"],
-        "class" : "Natural"
+        "affiliation": ["Plant"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Potbelly",
-        "affiliation" : ["Plant"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Potbelly",
-        "affiliation" : ["Plant"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Noggin",
-        "affiliation" : ["Earth"],
-        "class" : "Natural"
+        "affiliation": ["Earth"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Noggin",
-        "affiliation" : ["Earth"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Noggin",
-        "affiliation" : ["Earth"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Toe_Jammer",
-        "affiliation" : ["Water"],
-        "class" : "Natural"
+        "affiliation": ["Water"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Toe_jammer",
-        "affiliation" : ["Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Toe_Jammer",
-        "affiliation" : ["Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Mammott",
-        "affiliation" : ["Cold"],
-        "class" : "Natural"
+        "affiliation": ["Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Mammott",
-        "affiliation" : ["Cold"],
-        "class" : "Natural"
+        "species": "Kayna",
+        "affiliation": ["Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Mammott",
-        "affiliation" : ["Cold"],
-        "class" : "Natural"
-    },
-    
-    {
-        "variant" : "Common",
         "species": "Dandidoo",
-        "affiliation" : ["Air", "Plant"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Plant"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Dandidoo",
-        "affiliation" : ["Air", "Plant"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Dandidoo",
-        "affiliation" : ["Air", "Plant"],
-        "class" : "Natural"
-    },
-    
-    {
-        "variant" : "Common",
         "species": "Cybop",
-        "affiliation" : ["Air", "Earth"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Earth"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Cybop",
-        "affiliation" : ["Air", "Earth"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Cybop",
-        "affiliation" : ["Air", "Earth"],
-        "class" : "Natural"
-    },
-    
-    {
-        "variant" : "Common",
         "species": "Quibble",
-        "affiliation" : ["Air", "Water"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Water"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Quibble",
-        "affiliation" : ["Air", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Quibble",
-        "affiliation" : ["Air", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Pango",
-        "affiliation" : ["Air", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Pango",
-        "affiliation" : ["Air", "Cold"],
-        "class" : "Natural"
+        "species": "Glowl",
+        "affiliation": ["Air", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Pango",
-        "affiliation" : ["Air", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Shrubb",
-        "affiliation" : ["Plant", "Earth"],
-        "class" : "Natural"
+        "affiliation": ["Plant", "Earth"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Shrubb",
-        "affiliation" : ["Plant", "Earth"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Shrubb",
-        "affiliation" : ["Plant", "Earth"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Oaktopus",
-        "affiliation" : ["Plant", "Water"],
-        "class" : "Natural"
+        "affiliation": ["Plant", "Water"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Oaktopus",
-        "affiliation" : ["Plant", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Oaktopus",
-        "affiliation" : ["Plant", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Furcorn",
-        "affiliation" : ["Plant", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Plant", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Furcorn",
-        "affiliation" : ["Plant", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Furcorn",
-        "affiliation" : ["Plant", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Fwog",
-        "affiliation" : ["Earth", "Water"],
-        "class" : "Natural"
+        "affiliation": ["Plant", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
         "species": "Fwog",
-        "affiliation" : ["Earth", "Water"],
-        "class" : "Natural"
+        "affiliation": ["Earth", "Water"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Fwog",
-        "affiliation" : ["Earth", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Drumpler",
-        "affiliation" : ["Earth", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Earth", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Drumpler",
-        "affiliation" : ["Earth", "Cold"],
-        "class" : "Natural"
+        "species": "Stogg",
+        "affiliation": ["Earth", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Drumpler",
-        "affiliation" : ["Earth", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Maw",
-        "affiliation" : ["Water", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Water", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Maw",
-        "affiliation" : ["Water", "Cold"],
-        "class" : "Natural"
+        "species": "Phangler",
+        "affiliation": ["Water", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Maw",
-        "affiliation" : ["Water", "Cold"],
-        "class" : "Natural"
+        "species": "Boskus",
+        "affiliation": ["Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Common",
         "species": "Reedling",
-        "affiliation" : ["Air", "Plant", "Earth"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Plant", "Earth"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Reedling",
-        "affiliation" : ["Air", "Plant", "Earth"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Reedling",
-        "affiliation" : ["Air", "Plant", "Earth"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Spunge",
-        "affiliation" : ["Air", "Plant", "Water"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Plant", "Water"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
-    {
-        "variant" : "Rare",
-        "species": "Spunge",
-        "affiliation" : ["Air", "Plant", "Water"],
-        "class" : "Natural"
+        {
+        "species": "Barrb",
+        "affiliation": ["Air", "Plant", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Spunge",
-        "affiliation" : ["Air", "Plant", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Thumpies",
-        "affiliation" : ["Air", "Plant", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Plant", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Thumpies",
-        "affiliation" : ["Air", "Plant", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Thumpies",
-        "affiliation" : ["Air", "Plant", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Scups",
-        "affiliation" : ["Air", "Earth", "Water"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Earth", "Water"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Scups",
-        "affiliation" : ["Air", "Earth", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Scups",
-        "affiliation" : ["Air", "Earth", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "PomPom",
-        "affiliation" : ["Air", "Earth", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Earth", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "PomPom",
-        "affiliation" : ["Air", "Earth", "Cold"],
-        "class" : "Natural"
+        "species": "Floogull",
+        "affiliation": ["Air", "Earth", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "PomPom",
-        "affiliation" : ["Air", "Earth", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Congle",
-        "affiliation" : ["Air", "Water", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Water", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Congle",
-        "affiliation" : ["Air", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Whaddle",
+        "affiliation": ["Air", "Water", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Congle",
-        "affiliation" : ["Air", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Woolabee",
+        "affiliation": ["Air", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Common",
         "species": "Pummel",
-        "affiliation" : ["Plant", "Earth", "Water"],
-        "class" : "Natural"
+        "affiliation": ["Plant", "Earth", "Water"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Pummel",
-        "affiliation" : ["Plant", "Earth", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Pummel",
-        "affiliation" : ["Plant", "Earth", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Clamble",
-        "affiliation" : ["Plant", "Earth", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Plant", "Earth", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Clamble",
-        "affiliation" : ["Plant", "Earth", "Cold"],
-        "class" : "Natural"
+        "species": "Repatillo",
+        "affiliation": ["Air", "Earth", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Clamble",
-        "affiliation" : ["Plant", "Earth", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Bowgart",
-        "affiliation" : ["Plant", "Water", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Plant", "Water", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Bowgart",
-        "affiliation" : ["Plant", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Rootitoot",
+        "affiliation": ["Plant", "Water", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Bowgart",
-        "affiliation" : ["Plant", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Sooza",
+        "affiliation": ["Plant", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Common",
         "species": "T-Rox",
-        "affiliation" : ["Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Earth", "Water", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "T-Rox",
-        "affiliation" : ["Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Thrumble",
+        "affiliation": ["Earth", "Water", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "T-Rox",
-        "affiliation" : ["Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Ziggurab",
+        "affiliation": ["Earth", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Common",
+        "species": "Wynq",
+        "affiliation": ["Water", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
+    },
+    {
         "species": "Shellbeat",
-        "affiliation" : ["Air", "Plant", "Earth", "Water"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Plant", "Earth", "Water"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Shellbeat",
-        "affiliation" : ["Air", "Plant", "Earth", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Epic",
-        "species": "Shellbeat",
-        "affiliation" : ["Air", "Plant", "Earth", "Water"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Quarrister",
-        "affiliation" : ["Air", "Plant", "Earth", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Plant", "Earth", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Quarrister",
-        "affiliation" : ["Air", "Plant", "Earth", "Cold"],
-        "class" : "Natural"
+        "species": "Tring",
+        "affiliation": ["Air", "Plant", "Earth", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Quarrister",
-        "affiliation" : ["Air", "Plant", "Earth", "Cold"],
-        "class" : "Natural"
-    },
-
-    {
-        "variant" : "Common",
         "species": "Deedge",
-        "affiliation" : ["Air", "Plant", "Water", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Plant", "Water", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Deedge",
-        "affiliation" : ["Air", "Plant", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Bisonorus",
+        "affiliation": ["Air", "Plant", "Water", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Deedge",
-        "affiliation" : ["Air", "Plant", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Yelmut",
+        "affiliation": ["Air", "Plant", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-    
     {
-        "variant" : "Common",
         "species": "Riff",
-        "affiliation" : ["Air", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Earth", "Water", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Riff",
-        "affiliation" : ["Air", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Flum_Ox",
+        "affiliation": ["Air", "Earth", "Water", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Riff",
-        "affiliation" : ["Air", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Krillby",
+        "affiliation": ["Air", "Earth", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Common",
+        "species": "Sneyser",
+        "affiliation": ["Air", "Water", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
+    },
+    {
         "species": "Entbrat",
-        "affiliation" : ["Plant", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Plant", "Earth", "Water", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Entbrat",
-        "affiliation" : ["Plant", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Edamimi",
+        "affiliation": ["Plant", "Earth", "Water", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Entbrat",
-        "affiliation" : ["Plant", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "PongPing",
+        "affiliation": ["Plant", "Earth", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Common",
+        "species": "Incisaur",
+        "affiliation": ["Plant", "Water", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
+    },
+    {
+        "species": "Tiawa",
+        "affiliation": ["Earth", "Water", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
+    },
+    {
         "species": "Mimic",
-        "affiliation" : ["Air", "Plant", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "affiliation": ["Air", "Plant", "Earth", "Water", "Cold"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Rare",
-        "species": "Mimic",
-        "affiliation" : ["Air", "Plant", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Candelavra",
+        "affiliation": ["Air", "Plant", "Earth", "Water", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
     },
-
     {
-        "variant" : "Epic",
-        "species": "Mimic",
-        "affiliation" : ["Air", "Plant", "Earth", "Water", "Cold"],
-        "class" : "Natural"
+        "species": "Drummidary",
+        "affiliation": ["Air", "Plant", "Earth", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
+    },
+    {
+        "species": "Bowhead",
+        "affiliation": ["Air", "Plant", "Water", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
+    },
+    {
+        "species": "Tuskski",
+        "affiliation": ["Air", "Earth", "Water", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare", "Epic"]
+    },
+    {
+        "species": "Gnarls",
+        "affiliation": ["Plant", "Earth", "Water", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Common", "Rare"]
+    },
+    {
+        "species": "Gnarl",
+        "affiliation": ["Plant", "Earth", "Water", "Cold", "Fire"],
+        "class": "Natural",
+        "variants": ["Epic"]
     }
 ]
